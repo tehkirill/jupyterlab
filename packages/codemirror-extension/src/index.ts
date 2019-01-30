@@ -362,6 +362,7 @@ function activateEditorCommands(
     'material',
     'mbo',
     'mdn-like',
+    'monokai',
     'seti',
     'solarized dark',
     'solarized light',
